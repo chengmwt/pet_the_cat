@@ -1,33 +1,46 @@
 import { React } from 'react'
 import './PetCat.scss'
+import images from './Images'
 
-const PetCat = ({ calculateIrritation, pettingListener }) => {
+const PetCat = ({ calculateIrritation }) => {
 
-    let start
-    let stop
-    let delta
+    let start // start time
+    let stop // stop time
+    let delta // delta between start and stop time
 
 
+    // get the start time
     const petCat = () => {
+
         start = new Date()
-        console.log(start)
-        pettingListener(true)
 
     }
 
+    // get the stop time
     const stopPetCat = () => {
-        stop = new Date()
-        console.log(stop)
-        delta = (stop - start) / 1000
-        console.log(delta)
-        calculateIrritation(delta)
 
-        pettingListener(false)
+        stop = new Date()
+
+        // calculate the difference and divide by 1000 to get seconds
+        delta = (stop - start) / 1000
+
+        // pass that back to Cat.jsx for calculations
+        calculateIrritation(delta)
 
     }
 
     return (
-        <div className='petCatTarget' onMouseDown={petCat} onMouseUp={stopPetCat} ></div>
+        <div id='pet_cat_target' onMouseDown={() => {
+            petCat()
+
+            // while mouse is down, change image to cat_cool to give some sort of response
+            document.getElementById('cat_image').src = images.cat_cool
+
+        }} onMouseUp={() => {
+
+            stopPetCat()
+
+        }} ></div>
     )
 
 }

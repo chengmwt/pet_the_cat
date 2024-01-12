@@ -6,6 +6,7 @@ import cat_heart from '../assets/cat_heart.png'
 import cat_irritated from '../assets/cat_irritated.png'
 import cat_surprised from '../assets/cat_surprised.png'
 import cat_tongue from '../assets/cat_tongue.png'
+import you_died from '../assets/you_died.png'
 
 
 export default {
@@ -16,5 +17,6 @@ export default {
     cat_heart, // level -5
     cat_irritated, // level 5
     cat_surprised,
-    cat_tongue
+    cat_tongue,
+    you_died
 }

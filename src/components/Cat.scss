@@ -12,17 +12,30 @@
     align-items: center;
     width: 300px;
     height: 300px;
-    cursor: url('../assets/hand.png'), auto;
+
+    :hover {
+
+        cursor: url('../assets/hand.png'), auto;
+    }
 
     :active {
         cursor: url('../assets/hand_rotated.png'), auto;
     }
 }
 
-.cat_image {
+#cat_image {
     width: 300px;
     height: 300px;
     position: absolute;
     z-index: -5;
 
+}
+
+.hidden {
+    display: none;
+}
+
+.you_died {
+    position: absolute;
+    z-index: 5
 }
