@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pet_the_cat/static/css/main.5f410971.css",
-    "main.js": "/pet_the_cat/static/js/main.e2f78985.js",
+    "main.js": "/pet_the_cat/static/js/main.3b6a7573.js",
     "static/js/787.bd3180a5.chunk.js": "/pet_the_cat/static/js/787.bd3180a5.chunk.js",
     "static/media/cat_angry.png": "/pet_the_cat/static/media/cat_angry.551265bad484e83209d7.png",
     "static/media/cat_tongue.png": "/pet_the_cat/static/media/cat_tongue.6deda694bca3c045b5cf.png",
@@ -16,11 +16,11 @@
     "static/media/hand_rotated.png": "/pet_the_cat/static/media/hand_rotated.72c48400e451ff6ec7b4.png",
     "index.html": "/pet_the_cat/index.html",
     "main.5f410971.css.map": "/pet_the_cat/static/css/main.5f410971.css.map",
-    "main.e2f78985.js.map": "/pet_the_cat/static/js/main.e2f78985.js.map",
+    "main.3b6a7573.js.map": "/pet_the_cat/static/js/main.3b6a7573.js.map",
     "787.bd3180a5.chunk.js.map": "/pet_the_cat/static/js/787.bd3180a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f410971.css",
-    "static/js/main.e2f78985.js"
+    "static/js/main.3b6a7573.js"
   ]
 }
