@@ -53,10 +53,7 @@ const PetCat = ({ calculateIrritation }) => {
 
             onTouchEnd={() => {
 
-                petCat()
-
-                // while mouse is down, change image to cat_cool to give some sort of response
-                document.getElementById('cat_image').src = images.cat_cool
+                stopPetCat()
             }}
 
         ></div>
