@@ -1,24 +1,20 @@
-import logo from './logo.svg';
+// Pet the cat game
+// Pet the cat to score points
+// The longer you pet it (holding mouse button down) the higher points you score
+// The more times you pet it, you gain a points multiplier
+// But be careful not to overdo it or you might die (irritation > 10)
+
+
 import './App.css';
+import Cat from './components/Cat';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+      <Cat />
+
+    </div >
   );
 }
 

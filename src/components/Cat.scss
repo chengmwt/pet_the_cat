@@ -1,0 +1,28 @@
+.cat_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.cat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    cursor: url('../assets/hand.png'), auto;
+
+    :active {
+        cursor: url('../assets/hand_rotated.png'), auto;
+    }
+}
+
+.cat_image {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    z-index: -5;
+
+}
