@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pet_the_cat/static/css/main.af7eee60.css",
-    "main.js": "/pet_the_cat/static/js/main.38acca8b.js",
+    "main.css": "/pet_the_cat/static/css/main.716e6b70.css",
+    "main.js": "/pet_the_cat/static/js/main.20678de6.js",
     "static/js/787.bd3180a5.chunk.js": "/pet_the_cat/static/js/787.bd3180a5.chunk.js",
-    "static/media/cat_angry.png": "/pet_the_cat/static/media/cat_angry.551265bad484e83209d7.png",
-    "static/media/cat_tongue.png": "/pet_the_cat/static/media/cat_tongue.6deda694bca3c045b5cf.png",
-    "static/media/cat_default.png": "/pet_the_cat/static/media/cat_default.852042d1b6a689fce317.png",
-    "static/media/cat_heart.png": "/pet_the_cat/static/media/cat_heart.7dc66dd58492ec159e33.png",
-    "static/media/cat_irritated.png": "/pet_the_cat/static/media/cat_irritated.58092624c58f3833721c.png",
-    "static/media/cat_surprised.png": "/pet_the_cat/static/media/cat_surprised.3ec1763a6e28cde6926e.png",
-    "static/media/cat_cool.png": "/pet_the_cat/static/media/cat_cool.f11715ba668d8ff9e0b2.png",
-    "static/media/cat_double_heart.png": "/pet_the_cat/static/media/cat_double_heart.431397c7d5acaedc3a9a.png",
-    "static/media/living_room.jpeg": "/pet_the_cat/static/media/living_room.84e13ab02dd7e3e4edd4.jpeg",
+    "static/media/cat_angry.png": "/pet_the_cat/static/media/cat_angry.729a57911d9ec4c9362e.png",
+    "static/media/cat_tongue.png": "/pet_the_cat/static/media/cat_tongue.d2ea3506ccd0bdef3ae6.png",
+    "static/media/cat_default.png": "/pet_the_cat/static/media/cat_default.0dd5938887053c136338.png",
+    "static/media/cat_heart.png": "/pet_the_cat/static/media/cat_heart.e2b62f388c3efead4498.png",
+    "static/media/cat_irritated.png": "/pet_the_cat/static/media/cat_irritated.cdac319a290825c30788.png",
+    "static/media/cat_surprised.png": "/pet_the_cat/static/media/cat_surprised.5ae1734258ebb71e7e20.png",
+    "static/media/cat_double_heart.png": "/pet_the_cat/static/media/cat_double_heart.b2a35235c7a2c14e3c62.png",
+    "static/media/cat_cool.png": "/pet_the_cat/static/media/cat_cool.9512771647fdddc71414.png",
+    "static/media/living_room.jpeg": "/pet_the_cat/static/media/living_room.65f7c60670c108620a51.jpeg",
     "static/media/you_died.png": "/pet_the_cat/static/media/you_died.7e041e3cf3f503744aad.png",
     "static/media/hand.png": "/pet_the_cat/static/media/hand.4409071ad01036796b46.png",
     "static/media/hand_rotated.png": "/pet_the_cat/static/media/hand_rotated.72c48400e451ff6ec7b4.png",
     "index.html": "/pet_the_cat/index.html",
-    "main.af7eee60.css.map": "/pet_the_cat/static/css/main.af7eee60.css.map",
-    "main.38acca8b.js.map": "/pet_the_cat/static/js/main.38acca8b.js.map",
+    "main.716e6b70.css.map": "/pet_the_cat/static/css/main.716e6b70.css.map",
+    "main.20678de6.js.map": "/pet_the_cat/static/js/main.20678de6.js.map",
     "787.bd3180a5.chunk.js.map": "/pet_the_cat/static/js/787.bd3180a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af7eee60.css",
-    "static/js/main.38acca8b.js"
+    "static/css/main.716e6b70.css",
+    "static/js/main.20678de6.js"
   ]
 }
