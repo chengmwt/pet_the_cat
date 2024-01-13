@@ -9,6 +9,10 @@
     margin: 0;
     position: absolute;
     overflow: hidden;
+    background: url('../assets/living_room.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -100;
 }
 
 .cat {
@@ -37,7 +41,7 @@
 }
 
 .hidden {
-    display: none;
+    display: none !important;
 }
 
 .you_died img {

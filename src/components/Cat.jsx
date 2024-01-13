@@ -44,6 +44,7 @@ const Cat = () => {
             console.log('you win')
         } else if (irritation > 10) {
             document.getElementById("you_died").classList.remove('hidden')
+            console.log('you died')
         }
 
         // after each check, replace the cat's  expression with the one in the catExpressionArray
